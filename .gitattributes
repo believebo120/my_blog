@@ -1,0 +1,3 @@
+* text=auto eol=lf  # 所有文本文件使用 LF
+*.{js,css,html,vue,json,md} text eol=lf  # 强制前端文件使用 LF
+*.bat text eol=crlf  # Windows 批处理文件使用 CRLF
